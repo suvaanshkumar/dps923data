@@ -1,0 +1,19 @@
+{
+  "tickets": 
+  [{
+  "type": "Balcony Level", 
+  "price":1170, 
+  "quantity":12
+},
+ {
+ "type": "Lower Level", 
+  "price":10434, 
+    "quantity":20
+},
+{ 
+  "type": "Curtside", 
+  "price":27777, 
+   "quantity":24
+}
+            ]
+}
