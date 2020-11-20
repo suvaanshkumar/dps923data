@@ -3,17 +3,17 @@
   [{
   "type": "Balcony Level", 
   "price":1170, 
-  "inventory":12
+  "quantity":12
 },
  {
  "type": "Lower Level", 
   "price":10434, 
-    "inventory":20
+  "quantity":20
 },
 { 
   "type": "Curtside", 
   "price":27777, 
-   "inventory":24
+   "quantity":24
 }
             ]
 }
