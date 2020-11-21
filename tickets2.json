@@ -8,12 +8,12 @@
  {
  "type": "Lower Level", 
   "price":10434, 
-    "quantity":22
+    "quantity":21
 },
 { 
   "type": "Curtside", 
   "price":27777, 
-   "quantity":27
+   "quantity":24
 }
             ]
 }
